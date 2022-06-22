@@ -1,0 +1,2 @@
+## Derin Öğrenmede Gizli Katman Çıktılarının Görüntülenmesi
+Bu repo içerisinde, yazmış olduğum [medium](https://medium.com/@polat.emrullah.06/derin-%C3%B6%C4%9Frenmede-gizli-katman-%C3%A7%C4%B1kt%C4%B1lar%C4%B1n%C4%B1n-g%C3%B6r%C3%BCnt%C3%BClenmesi-731c07d68be2) makalesinin kaynak kodları bulunmaktadır. Makale içerisinde kod ayrıntısına girilmemiş konudan temel açılardan bahsedilmiştir. Tam olarak kaynak kodları bu repo içerisinde bulunmaktadır.
